@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Generateur_QR/static/css/main.d7093ee2.chunk.css",
+    "main.js": "/Generateur_QR/static/js/main.473396ff.chunk.js",
+    "main.js.map": "/Generateur_QR/static/js/main.473396ff.chunk.js.map",
+    "runtime-main.js": "/Generateur_QR/static/js/runtime-main.5badffc0.js",
+    "runtime-main.js.map": "/Generateur_QR/static/js/runtime-main.5badffc0.js.map",
+    "static/js/2.00d6c742.chunk.js": "/Generateur_QR/static/js/2.00d6c742.chunk.js",
+    "static/js/2.00d6c742.chunk.js.map": "/Generateur_QR/static/js/2.00d6c742.chunk.js.map",
+    "index.html": "/Generateur_QR/index.html",
+    "precache-manifest.a1dc6578125a9a13d5b71df72e9747cc.js": "/Generateur_QR/precache-manifest.a1dc6578125a9a13d5b71df72e9747cc.js",
+    "service-worker.js": "/Generateur_QR/service-worker.js",
+    "static/css/main.d7093ee2.chunk.css.map": "/Generateur_QR/static/css/main.d7093ee2.chunk.css.map",
+    "static/js/2.00d6c742.chunk.js.LICENSE.txt": "/Generateur_QR/static/js/2.00d6c742.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Generateur_QR/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5badffc0.js",
+    "static/js/2.00d6c742.chunk.js",
+    "static/css/main.d7093ee2.chunk.css",
+    "static/js/main.473396ff.chunk.js"
+  ]
+}
